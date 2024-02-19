@@ -18,7 +18,7 @@ growth of the state through insghts and relevant visuals such as shape maps.
 ### Insights:
 1) ppt presentation question & answers with visuals  [tableau workbook](https://public.tableau.com/views/myworkbook2_17060077195020/Que_1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 2) check live dashboard in tableau public [Tableau Dashboard](https://public.tableau.com/views/Book6_17073727290900/VEHICLE1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)  
-3) Linkedin [Post]
+3) Linkedin [Post](https://www.linkedin.com/posts/rohit-shahare_telangana-growth-analysis-activity-7165205221000904704-J3vC?utm_source=share&utm_medium=member_desktop)
 
 ### Skilled Gain:
 
